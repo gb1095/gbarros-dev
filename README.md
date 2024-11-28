@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Guilherme Barros (he/him).
+My name is Guilherme Barros.
 
 ## 🔭 Currently work
 
