@@ -1,33 +1,23 @@
-### Hi there 👋
+# Hey, I’m Guilherme. You can call me Guil 👋
 
-My name is Guilherme Barros.
+Software engineer based in Berlin, turning thoughts into real projects since 2013.
 
-## 🔭 Currently work
+I enjoy building useful things, exploring new ideas, and figuring out
+how to make software simpler and better.
 
-Flatirons Development from US as Software Engineer!
-Working mostly with React, NodeJS and TypeScript for startup projects. Developer since 2013.
-Also develop side projects with AWS(Lambda, DynamoDB, etc.), MongoDB and other technologies.
+## Curious about
 
-## 🌱 Currently learning
+AI, developer tools, and better ways to build software.
+Especially how AI can turn ideas into things people actually use.
 
-- DynamoDB
-- Swift
-- Docker
-- Linux
+## Main techs
 
-## 👯 Looking to collaborate
+- ChatGPT/Codex
+- Claude Code
+- Cursor/Grok Bot
 
-- Node.js
-- Typescript
-- React
-- React Native
-- Swift
+## Socials
 
-## 📫 How to reach me
+Always happy to talk about AI, swap project ideas, or build something interesting.
 
-- 🐦 [@gui_bbarros](https://twitter.com/gui_bbarros)
-- 📧 [email](mailto:hello@gbarros.dev)
-
-## ⚡ Fun fact
-
-- Love airsoft, drones and to travel
+[Find me on X](https://x.com/gb1095)
